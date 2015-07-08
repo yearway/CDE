@@ -16,3 +16,8 @@ Simply run `make` under the root directory of the project. This code requires Op
 
 run ```./CDE Images/girl.jpg``` to enhance the `girl.jpg` image.
 
+Input:
+![Input](https://github.com/yearway/CDE/blob/master/Images/girl.jpg?raw=true)
+
+Output:
+![Output](https://github.com/yearway/CDE/blob/master/result.png?raw=true)
